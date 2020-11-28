@@ -45,6 +45,7 @@ Read more about these options in the OT.initPublisher() reference documentation.
       width: '100%',
       height: '100%'
     }, handleError);
+    
   
     // Connect to the session
     /*The OT.initSession() method takes two parameters — the OpenTok API key and the session ID. It initializes and returns an OpenTok session object.
